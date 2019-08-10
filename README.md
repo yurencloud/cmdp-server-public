@@ -8,6 +8,8 @@ cmdp-server是cmdp工具的服务端，如果希望自己运行服务端，启�
 
 ##### 1. 下载对应平台的cmdp-server
 
+[mac](https://github.com/yurencloud/cmdp-server-public/releases/download/v3.0.0/cmdp-server-mac.tar.gz) | [windows](https://github.com/yurencloud/cmdp-server-public/releases/download/v3.0.0/cmdp-server-windows.tar.gz) | [linux](https://github.com/yurencloud/cmdp-server-public/releases/download/v3.0.0/cmdp-server-linux.tar.gz)
+
 ##### 2. 安装mysql和redis
 
 在mysql中创建cmdp数据库
